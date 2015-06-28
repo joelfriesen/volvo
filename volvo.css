@@ -1,0 +1,662 @@
+
+
+/*------------------------------------------------------------
+-------The flair-------------------------------------------------
+------------------------------------------------------------*/
+
+
+div.linkflair-122 a.thumbnail:hover::before,
+div.linkflair-140 a.thumbnail:hover::before,
+div.linkflair-140 a.thumbnail:hover::before,
+div.linkflair-164 a.thumbnail:hover::before,
+div.linkflair-240 a.thumbnail:hover::before,
+div.linkflair-300 a.thumbnail:hover::before,
+div.linkflair-440 a.thumbnail:hover::before,
+div.linkflair-480 a.thumbnail:hover::before,
+div.linkflair-700 a.thumbnail:hover::before,
+div.linkflair-850 a.thumbnail:hover::before,
+div.linkflair-900 a.thumbnail:hover::before,
+div.linkflair-c70 a.thumbnail:hover::before,
+div.linkflair-s70 a.thumbnail:hover::before,
+div.linkflair-s90 a.thumbnail:hover::before,
+div.linkflair-s80 a.thumbnail:hover::before,
+div.linkflair-s40 a.thumbnail:hover::before,
+div.linkflair-s60 a.thumbnail:hover::before,
+div.linkflair-c30 a.thumbnail:hover::before,
+div.linkflair-xc90 a.thumbnail:hover::before{
+    width: 120px;
+    display: block;
+    padding: 2px;
+    width: 120px;
+    font-size: 12px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    opacity: 1.0;
+    z-index: 100;
+    }
+
+
+div.linkflair-122 a.thumbnail,
+div.linkflair-140 a.thumbnail,
+div.linkflair-140 a.thumbnail,
+div.linkflair-164 a.thumbnail,
+div.linkflair-240 a.thumbnail,
+div.linkflair-300 a.thumbnail,
+div.linkflair-440 a.thumbnail,
+div.linkflair-480 a.thumbnail,
+div.linkflair-700 a.thumbnail,
+div.linkflair-850 a.thumbnail,
+div.linkflair-900 a.thumbnail,
+div.linkflair-c70 a.thumbnail,
+div.linkflair-s70 a.thumbnail,
+div.linkflair-s90 a.thumbnail,
+div.linkflair-s80 a.thumbnail,
+div.linkflair-s40 a.thumbnail,
+div.linkflair-s60 a.thumbnail,
+div.linkflair-c30 a.thumbnail,
+div.linkflair-xc90 a.thumbnail{
+    border-left: 10px solid #FFF;
+    margin-left: 0px;}
+
+
+
+/*-------CLASSIC --------------------------------------------------*/
+span.linkflair-122,
+.linkflair-122 > span.linkflairlabel,
+div.side a[href*="#topicclassic"],
+.flair-122,
+.flair-1800,
+.flair-544,
+div.linkflair-122 a.thumbnail,
+div.linkflair-122 a.thumbnail:hover::before {
+    content: "Classic";
+    background-color: #6CF;
+    border-color: #6CF;
+    color: #000;
+    }
+
+    .content div.linkflair-122  {
+        background:url(%%old%%) #fff 99% 50% no-repeat;
+    }
+    
+/*-------140 --------------------------------------------------*/   
+span.linkflair-140,
+.linkflair-140 > span.linkflairlabel,
+div.side a[href*="#topic140"],
+.flair-142,
+.flair-145,
+div.linkflair-140 a.thumbnail,
+div.linkflair-140 a.thumbnail:hover::before {
+    content: "140 Series";
+    background-color: #CCF;
+    border-color: #CCF;
+    color: #000;}
+    
+    .content div.linkflair-140  {
+        background:url(%%140%%) #fff 99% 50% no-repeat;
+    }
+    
+    
+/*-------164 --------------------------------------------------*/
+span.linkflair-164,
+.linkflair-164 > span.linkflairlabel,
+div.side a[href*="#topic164"] ,
+.flair-164,
+div.linkflair-164 a.thumbnail,
+div.linkflair-164 a.thumbnail:hover::before {
+    content: "164 Series";
+    background-color: #E4F3CD;
+    border-color: #E4F3CD;
+    color: #000;}
+    .content div.linkflair-164  {
+        background:url(%%164%%) #fff 99% 50% no-repeat;
+    }
+    
+    
+    
+/*-------240 --------------------------------------------------*/
+.flair-242,
+.flair-244,
+.flair-245,
+.flair-262,
+.flair-264,
+.flair-265,
+span.linkflair-240,
+.linkflair-240 > span.linkflairlabel,
+div.side a[href*="#topic240"],
+div.linkflair-240 a.thumbnail,
+div.linkflair-240 a.thumbnail:hover::before {
+    content: "240 Series";
+    background-color: #AEF1A5;
+    border-color: #AEF1A5;
+    color: #000;}
+    .content div.linkflair-240  {
+        background:url(%%240%%) #fff 99% 50% no-repeat;
+    }
+    
+    
+/*-------300 --------------------------------------------------*/
+.flair-343,
+.flair-345,
+.flair-360,
+span.linkflair-343,
+.linkflair-343 > span.linkflairlabel,
+div.side a[href*="#topic343"],
+div.linkflair-343 a.thumbnail,
+span.linkflair-300,
+.linkflair-300 span.linkflairlabel,
+div.side a[href*="#topic300"],
+div.linkflair-300 a.thumbnail,
+div.linkflair-300 a.thumbnail:hover::before {
+    content: "300 Series";
+    background-color: #F3AB9E;
+    border-color: #F3AB9E;
+    color: #FFF;}
+    .content div.linkflair-343  {
+        background:url(%%300%%) #fff 99% 50% no-repeat;
+    }
+    
+
+/*-------440 --------------------------------------------------*/   
+.flair-440,
+span.linkflair-440,
+.linkflair-440 > span.linkflairlabel,
+div.side a[href*="#topic440"],
+div.linkflair-440 a.thumbnail,
+div.linkflair-440 a.thumbnail:hover::before {
+    content: "440/460 Series";
+    background-color: #D3DCFE;
+    border-color: #D3DCFE;
+    color: #000;}
+    
+    .content div.linkflair-440  {
+        background:url(%%440%%) #fff 99% 50% no-repeat;
+    }
+    
+    
+/*-------480 --------------------------------------------------*/
+.flair-480,
+span.linkflair-480,
+.linkflair-480 > span.linkflairlabel,
+div.side a[href*="#topic480"],
+div.linkflair-480 a.thumbnail,
+div.linkflair-480 a.thumbnail:hover::before {
+    content: "480 Series";
+    background-color: #FAF9C0;
+    border-color: #FAF9C0;
+    color: #000;}
+    .content div.linkflair-480  {
+        background:url(%%480%%) #fff 99% 50% no-repeat;
+    }
+    
+
+
+/*-------700 --------------------------------------------------*/
+.flair-740,
+.flair-760,
+.flair-780,
+span.linkflair-700,
+.linkflair-700 > span.linkflairlabel,
+div.side a[href*="#topic700"],
+div.linkflair-700 a.thumbnail,
+div.linkflair-700 a.thumbnail:hover::before {
+    content: "700 Series";
+    background-color: #F7F186;
+    border-color: #F7F186;
+    color: #000;}
+    .content div.linkflair-700  {
+        background:url(%%700%%) #fff 99% 50% no-repeat;
+    }
+    
+    
+    
+/*-------850 --------------------------------------------------*/
+.flair-850,
+span.linkflair-850,
+.linkflair-850 > span.linkflairlabel,
+div.side a[href*="#topic850"],
+div.linkflair-850 a.thumbnail,
+div.linkflair-850 a.thumbnail:hover::before {
+    content: "850";
+    background-color: #000;
+    border-color: #000;
+    color: #FFF;}
+    
+    .content div.linkflair-850  {
+        background:url(%%850%%) #fff 99% 50% no-repeat;
+    }
+    
+/*-------900 --------------------------------------------------*/
+.flair-940,
+.flair-960,
+span.linkflair-900,
+.linkflair-900 > span.linkflairlabel,
+div.side a[href*="#topic900"],
+div.linkflair-900 a.thumbnail,
+div.linkflair-900 a.thumbnail:hover::before {
+    content: "900 Series";
+    background-color: #205391;
+    border-color: #205391;
+    color: #FFF;}
+    
+    .content div.linkflair-900  {
+        background:url(%%900%%) #fff 99% 50% no-repeat;
+    }
+    
+/*-------c70 --------------------------------------------------*/   
+.flair-c70,
+span.linkflair-c70,
+.linkflair-c70 > span.linkflairlabel,
+div.side a[href*="#topicc70"],
+div.linkflair-c70 a.thumbnail,
+div.linkflair-c70 a.thumbnail:hover::before {
+    content: "c70";
+    background-color: #CCC;
+    border-color: #CCC;
+    color: #000;}
+    
+    .content div.linkflair-c70  {
+        background:url(%%c70%%) #fff 99% 50% no-repeat;
+    }
+/*-------s70 --------------------------------------------------*/
+.flair-s70,
+.flair-v70,
+span.linkflair-s70,
+.linkflair-s70 > span.linkflairlabel,
+div.side a[href*="#topics70"],
+div.linkflair-s70 a.thumbnail,
+div.linkflair-s70 a.thumbnail:hover::before {
+    content: "s70/v70";
+    background-color: #E4F3CD;
+    border-color: #E4F3CD;
+    color: #000;}
+    
+    .content div.linkflair-s70  {
+        background:url(%%s70%%) #fff 99% 50% no-repeat;
+    }
+    
+/*-------s90 --------------------------------------------------*/
+.flair-s90,
+.flair-v90,
+span.linkflair-s90,
+.linkflair-s90 > span.linkflairlabel,
+div.side a[href*="#topics90"],
+div.linkflair-s90 a.thumbnail,
+div.linkflair-s90 a.thumbnail:hover::before {
+    content: "s90/v90";
+    background-color: #009;
+    border-color: #009;
+    color: #FFF;}
+    
+    .content div.linkflair-s90  {
+        background:url(%%s90%%) #fff 99% 50% no-repeat;
+    }
+    
+/*-------s80 --------------------------------------------------*/
+.flair-s80,
+span.linkflair-s80,
+.linkflair-s80 > span.linkflairlabel,
+div.side a[href*="#topics80"],
+div.linkflair-s80 a.thumbnail ,
+div.linkflair-s80 a.thumbnail:hover::before {
+    content: "s80";
+    background-color: #FFC6AA;
+    border-color: #FFC6AA;
+    color: #000;}
+    
+    .content div.linkflair-s80  {
+        background:url(%%s80%%) #fff 99% 50% no-repeat;
+    }
+    
+    
+/*-------s40 --------------------------------------------------*/
+.flair-s40,
+.flair-v40,
+.flair-v50,
+span.linkflair-s40,
+.linkflair-s40 > span.linkflairlabel,
+div.side a[href*="#topics40"],
+div.linkflair-s40 a.thumbnail,
+div.linkflair-s40 a.thumbnail:hover::before {
+    content: "s40/v40/v50";
+    background-color: #F57A1F;
+    border-color: #F57A1F;
+    color: #FFF;}
+    
+ .content div.linkflair-s40  {
+        background:url(%%s40%%) #fff 99% 50% no-repeat;
+    }   
+    
+/*-------s60 --------------------------------------------------*/
+.flair-s60,
+.flair-v60,
+span.linkflair-s60,
+.linkflair-s60 > span.linkflairlabel,
+div.side a[href*="#topics60"],
+div.linkflair-s60 a.thumbnail,
+div.linkflair-s60 a.thumbnail:hover::before {
+    content: "s60/v60";
+    background-color: #004000;
+    border-color: #004000;
+    color: #FFF;}
+    
+ .content div.linkflair-s60  {
+        background:url(%%s60%%) #fff 99% 50% no-repeat;
+    }   
+    
+    
+/*-------c30 --------------------------------------------------*/
+.flair-c30,
+span.linkflair-c30,
+.linkflair-c30 > span.linkflairlabel,
+div.side a[href*="#topicc30"],
+div.linkflair-c30 a.thumbnail,
+div.linkflair-c30 a.thumbnail:hover::before {
+    content: "c30";
+    background-color: #AFD8D8;
+    border-color: #AFD8D8;
+    color: #000;}
+    
+  .content div.linkflair-c30  {
+        background:url(%%c30%%) #fff 99% 50% no-repeat;
+    } 
+    
+    
+/*-------xc90 --------------------------------------------------*/
+.flair-xc90,
+.flair-xc60,
+.flair-xc70,
+span.linkflair-xc90,
+.linkflair-xc90 > span.linkflairlabel,
+div.side a[href*="#topicxc"],
+div.linkflair-xc90 a.thumbnail,
+div.linkflair-xc90 a.thumbnail:hover::before {
+    content: "xc series";
+    background-color: #ADB4BE;
+    border-color: #ADB4BE;
+    color: #FFF;}
+
+.content div.linkflair-xc90  {
+        background:url(%%xc%%) #fff 99% 50% no-repeat;
+    }
+
+
+/*------------------------------------------------------------
+-------The rest-------------------------------------------------
+------------------------------------------------------------*/
+/*Christmas HEader
+#header{background:url(%%santa%%) no-repeat top left #1a1b0e; color:#000; overflow:hidden;} 
+div#header-bottom-left:after {
+    content: "Photo by bramdc.deviantart.com";
+}
+*/
+
+/*Sunrise Header
+#header{background:url(%%sunrise%%) no-repeat top left #9f6e69; color:#000; overflow:hidden;} 
+div#header-bottom-left:after {
+    content: "Photo by /u/Swing_Top";
+}
+*/
+
+/*Wagon on gravel road
+#header{background:url(%%volvobg4%%) no-repeat top left #000; color:#000; overflow:hidden;} 
+div#header-bottom-left:after {
+content: "Photo by /u/Swing_Top";
+}
+*/
+
+/*Headlights in the mist
+#header{background:url(%%volvobg5%%) no-repeat top left #131211; color:#000; overflow:hidden;} 
+div#header-bottom-left:after {
+    content: "Photo by /u/69thunder";
+}
+*/
+
+/*Gas cap and birdshit
+#header{background:url(%%volvoheader%%) no-repeat top left #9d9181; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/scottCO9";
+}
+*/ 
+
+/*Fisheye Wagon
+#header{background:url(%%volvobg2%%) no-repeat top left #191a0f; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/Swing_Top";
+}
+*/
+
+/*Fall road, weirdly cutout
+#header{background:url(%%volvobg3%%) no-repeat top left #191a0f; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/Hazelmaister";
+}
+*/
+
+/*Foggy field
+#header{background:url(%%foggy%%) no-repeat top left #c5c6cb; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/Swing_Top";
+}
+*/
+
+/*Instagramish
+#header{background:url(%%header7%%) no-repeat top left #000; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/ross_hayes";
+}*/
+
+/*Foggy dark valley
+#header{background:url(%%header9%%) no-repeat top right #000; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/Foxbatt";
+}*/
+
+/*Abduction*/
+#header{background:url(%%header12%%) no-repeat top right #000; color:#000; overflow:hidden;}
+div#header-bottom-left:after {
+    content: "Photo by /u/OVER_9000_1991";
+}
+/*
+#header-img {padding: 12px 0 6px 12px;margin: 8px 0 0 20px}
+#header-img-a,
+#header .redditname{
+    color:#fff;
+    font-size:1.8em;
+display:block;
+float:left;
+}
+
+
+
+*/
+
+div#header-bottom-left:after {
+display: block;
+width: 317px;
+height: 20px;
+position: absolute;
+top: 151px;
+left: 22px;
+background: #fff;
+opacity: 0.6;
+text-align: center;
+}
+div#header-bottom-left:hover:after {
+opacity: 1;
+}
+
+.pagename{
+display: block;
+margin: 0;
+padding: 0;
+float: left;
+font-size: 0!important;
+}
+
+.pagename a, .pagename.selected {
+display: block;
+margin: 0;
+padding: 47px 0 0 0;
+border-color: #357ae8;
+border-radius: 0;
+background-color: transparent;
+background-image: none;
+box-shadow: none;
+color: #fff;
+text-shadow: 0 1px 0 #333;
+float: left;
+font-size: 0!important;
+}
+
+.pagename a:hover {
+border-color: none;
+background: none ;
+background-image: none;
+text-decoration: none;
+}
+
+#header .redditname a:after{
+content:"";    
+display:block;
+width:174px;
+height:86px;
+background:url(%%subreddit%%);
+}
+
+#header .tabmenu {clear:both; display:block !important;}
+.side .titlebox>h1 a{font-size:0}
+.side .titlebox>h1 a:after{
+content:"";    
+display:block;
+width:280px;
+height:196px;
+background:url(%%sidelogo%%);
+}
+#header-bottom-left{
+margin: 0;
+min-height: 210px;}
+
+
+
+#header-img-a img {
+max-height: 1000px;
+border-top-left-radius: 0;
+border-bottom-left-radius: 0;
+float: left;
+}
+
+#header-img-a {
+ display: inline-block; 
+margin: 15px 15px 38px 15px;
+ padding: 0;
+ height: auto; 
+ border-top-left-radius: 0; 
+ border-bottom-left-radius: 0; 
+ background: none; 
+ box-shadow: none;
+ vertical-align: bottom;
+ float: left;
+}
+
+.linkflair-mod {background:yellow;}
+
+
+span.linkflairlabel { display: none }
+.flairselector  span.linkflairlabel { display:block }
+.flairselector  a.title { display:none }
+.flairselection span.linkflairlabel { max-width:100%; padding:10px; }
+
+/*.sidebox.submit:hover::before {
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: #6ce;
+    color: #000;
+    z-index: 1000;
+    padding: 20px 0;
+    width: 100%;
+    font-size: 25px;
+    content: "When you are finished creating the post, please add flair to the post so it can be categorized. Check the sidebar for instructions. Thanks!";
+}*/
+
+.post-under-10m-old.post-submitter .sidebox.submit::before {
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: #6F3;
+    color: #000;
+    z-index: 1000;
+    padding: 10px 0;
+    width: 100%;
+    font-size: 10px;
+    content: "Please add flair to the post so it can be categorized.Click the FLAIR link below, or check the sidebar for instructions. Thanks!";
+}
+
+.post-under-10m-old.post-submitter .flat-list .flairselectbtn {background:#6F3; color:#000000; font-size:2em; padding:10px; border:1px solid #FF0;}
+
+.side .md p {
+    margin: 0; 
+}
+
+div.side a[href*="#topic"] {
+    display: block;
+    border: 1px solid transparent;
+    padding: 10px;
+    }
+
+
+div.side a[href*="#topic"]:hover {
+    border: 1px solid #9EF886;
+    border-width:1px 1px 1px 15px
+}
+
+div.thing a.thumbnail {
+    margin-left: 10px;
+    height: 50px;
+}
+
+div.thing a.thumbnail img {
+    margin-left: 5px;
+    width: 65px;
+}
+
+a.thumbnail {background:#fff !important;}
+a.self {background:url(%%self%%) !important;}
+a.self:hover {background:url(%%selfhover%%) !important;}
+    
+    .linkflair .RES-keyNav-activeElement, 
+    .linkflair .commentarea .RES-keyNav-activeElement .md, 
+    .linkflair .commentarea .RES-keyNav-activeElement.entry .noncollapsed {
+background: none !important;
+}
+    
+.flairoptionpane .linkflair {min-height:50px; background-color: #fff; margin: 10px 0;}
+.linkflairlabel {
+width: 43px;
+height: 20px;
+overflow: visible;
+white-space: normal;
+text-align: center;
+line-height: 1em;
+padding: 14px 5px;
+}
+
+.linklisting .thing {
+    padding: 2px 90px 0 0;
+}
+
+div.content,
+div.side {
+    overflow: hidden;
+    margin: 5px 20px 10px 25px;
+    padding: 10px 20px;
+    border: 1px solid #fbfbfb;
+    background-color: #fefefd;
+    box-shadow: 0 1px 3px 1px #ccc;
+}
